@@ -1,0 +1,59 @@
+.font-semibold {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+
+}
+
+.texto1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+}
+
+.texto2 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+}
+
+.card-title {
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+}
+
+.card-text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.container {
+    padding: 25px;
+}
+
+.card-text-5 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-align: justify;
+    font-size: large;
+}
+
+.text-center {
+    font-size: 25px;
+    color: antiquewhite;
+    padding: 15px;
+}
+
+.footer {
+    padding-right: 2%;
+    padding-left: 1%;
+}
+
+#btn-primary {
+    border-radius: 5 0 5 0;
+}
